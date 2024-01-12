@@ -65,7 +65,7 @@
 #define CONFIG_EXT ".plist"
 
 #ifdef WIN32
-#define CONFIG_DIR "Apple"DIR_SEP_S"Lockdown"
+#define CONFIG_DIR "Apple_Lockdown"
 #else
 #define CONFIG_DIR "lockdown"
 #endif
